@@ -15,7 +15,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const connectionString = "mongodb+srv://lyradeperseo:1998@cluster0.lp2o40n.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+const connectionString = "<dbconnection>"
 const dbName = "go"
 const colName = "watchlist"
 
